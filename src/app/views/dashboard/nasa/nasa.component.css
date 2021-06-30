@@ -1,0 +1,18 @@
+table {
+  width: 35%;
+  border: 1px solid #000;
+  margin-left: 32%;
+  margin-top: 15px;
+}
+td {
+  width: 25%;
+  text-align: center;
+  vertical-align: top;
+  border-collapse: collapse;
+  border: 1px solid #000;
+  padding: 0.3em;
+}
+
+.title {
+  font-weight: bold;
+}
